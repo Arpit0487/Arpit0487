@@ -1,14 +1,6 @@
 <h1 align="center">Hi there, I'm Arpit! 👋</h1>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/arpitsh5568?ext=heatmap" alt="Leetcode Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpit0487&show_icons=true&theme=radical" alt="GitHub stats">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit0487&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
