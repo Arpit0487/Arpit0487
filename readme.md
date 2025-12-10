@@ -1,7 +1,17 @@
 <h1 align="center">Hi there, I'm Arpit! 👋</h1>
 
+<<<<<<< HEAD
 
 
+=======
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit0487&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Arpit0487?style=social" alt="GitHub Followers"/>
+</p>
+>>>>>>> 133877c54048d0794234981e9de63cca5c9fbc4d
 
 🚀 About Me
 
@@ -71,3 +81,8 @@ Check out more in my [repositories](https://github.com/Arpit0487?tab=repositorie
 I'm always open to collaborating on projects and learning new things. Feel free to reach out:
 
 -  [Email](arpitshh5568@gmail.com)
+<<<<<<< HEAD
+=======
+
+<p align="center">⭐️ <strong>If you like my work, consider giving me a star!</strong> ⭐️</p>
+>>>>>>> 133877c54048d0794234981e9de63cca5c9fbc4d
