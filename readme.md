@@ -69,8 +69,6 @@ Check out more in my [repositories](https://github.com/Arpit0487?tab=repositorie
 I'm always open to collaborating on projects and learning new things. Feel free to reach out:
 
 -  [Email](arpitshh5568@gmail.com)
-<<<<<<< HEAD
-=======
 
 <p align="center">⭐️ <strong>If you like my work, consider giving me a star!</strong> ⭐️</p>
 >>>>>>> 133877c54048d0794234981e9de63cca5c9fbc4d
