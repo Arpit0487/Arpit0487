@@ -1,24 +1,32 @@
 <h1 align="center">Hi there, I'm Arpit! 👋</h1>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/arpitsh5568?ext=heatmap" alt="Leetcode Stats">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpit0487&show_icons=true&theme=radical" alt="GitHub stats">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit0487&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Arpit0487?style=social" alt="GitHub Followers"/>
-</p>
 
 🚀 About Me
 
 I'm a developer learning FULL-STACK development.
+
+## LeetCode
+
+
+<p align="center">
+<a href="https://leetcode.com/arpitsh5568/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="150" width="150" /></a>
+<a href="https://leetcode.com/arpitsh5568/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="150" width="150" /></a>
+<a href="https://leetcode.com/arpitsh5568/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge" height="150" width="150" /></a>
+<a href="https://leetcode.com/arpitsh5568/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="LeetCode Badge" height="150" width="150" /></a>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/arpitsh5568?theme=dark&font=Ubuntu&ext=contest" alt="Leetcode Stats" height="400" width="400">
+</p>
+
+## 📈 Github Contribution Graph
+
+<div align="center">
+
+![Github graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit0487&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B)
+
+</div>
 
 ### 🛠️ Technical Proficiencies
 
@@ -54,6 +62,7 @@ I'm a developer learning FULL-STACK development.
 **Other Notable Works:**
 - [🛒 Precision Pens](https://github.com/Arpit0487/Precision-Pens)
 - [🎳 Simon says](https://github.com/Arpit0487/simon-says)
+- [📚 DSA solutions](https://github.com/Arpit0487/Dsa_Cpp)
 
 Check out more in my [repositories](https://github.com/Arpit0487?tab=repositories)!
 
@@ -62,5 +71,3 @@ Check out more in my [repositories](https://github.com/Arpit0487?tab=repositorie
 I'm always open to collaborating on projects and learning new things. Feel free to reach out:
 
 -  [Email](arpitshh5568@gmail.com)
-
-<p align="center">⭐️ <strong>If you like my work, consider giving me a star!</strong> ⭐️</p>
