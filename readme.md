@@ -1,17 +1,5 @@
 <h1 align="center">Hi there, I'm Arpit! 👋</h1>
 
-<<<<<<< HEAD
-
-
-=======
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit0487&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Arpit0487?style=social" alt="GitHub Followers"/>
-</p>
->>>>>>> 133877c54048d0794234981e9de63cca5c9fbc4d
 
 🚀 About Me
 
