@@ -5,26 +5,7 @@
 
 I'm a developer learning FULL-STACK development.
 
-## LeetCode
 
-
-<p align="center">
-<a href="https://leetcode.com/arpitsh5568/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="150" width="150" /></a>
-<a href="https://leetcode.com/arpitsh5568/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="150" width="150" /></a>
-<a href="https://leetcode.com/arpitsh5568/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge" height="150" width="150" /></a>
-<a href="https://leetcode.com/arpitsh5568/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="LeetCode Badge" height="150" width="150" /></a>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/arpitsh5568?theme=dark&font=Ubuntu&ext=contest" alt="Leetcode Stats" height="400" width="400">
-</p>
-
-## 📈 Github Contribution Graph
-
-<div align="center">
-
-![Github graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit0487&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B)
-
-</div>
 
 ### 🛠️ Technical Proficiencies
 
